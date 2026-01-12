@@ -8,7 +8,6 @@ This repository is organized as follows:
 
 * :open_file_folder: **data**: folder containing data (or instructions on how to retrieve the data;
 * :open_file_folder: **Result**: folder containing marmousi model FWI results;
-* :open_file_folder: **FIELD_data**: folder contain field data application.
 
 ## Notebooks
 The following notebooks are provided:
