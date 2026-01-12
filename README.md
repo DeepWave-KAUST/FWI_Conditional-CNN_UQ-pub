@@ -38,5 +38,5 @@ It will take some time, if at the end you see the word `Done!` on your terminal 
 configurations may be required for different combinations of workstation and GPU.
 
 ## Cite us 
-Lingyun Yang, Omar M. Saad, Tariq Alkhalifah, et al. 2025. Conditional image prior for uncertainty quantification in full waveform inversion. International Meeting for Applied Geoscience and Energy.
+Lingyun Yang, Omar M. Saad, Tariq Alkhalifah, et al. 2026. Conditional image prior for uncertainty quantification in full waveform inversion.
 
